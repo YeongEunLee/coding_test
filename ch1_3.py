@@ -10,3 +10,6 @@ for i in array:
     for j in array:
         temp = i + j
         print(temp)
+
+for i in range(0, 10):
+    print(i)
